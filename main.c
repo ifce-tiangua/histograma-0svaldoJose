@@ -18,7 +18,6 @@ void imprime_histograma(char *h[], int valores[], int categorias){
         }
         printf("\n");
     }
-
 }
 
 int main(){
